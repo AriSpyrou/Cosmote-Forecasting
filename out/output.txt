@@ -1,0 +1,2 @@
+RandomForestRegressor(bootstrap=False, max_depth=90, max_features='sqrt',
+                      n_estimators=1400, n_jobs=-1)
